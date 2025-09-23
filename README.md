@@ -12,17 +12,23 @@ This repository serves as a collection of my projects, study progress, and pract
 
 ### 📂 Cybersecurity Portfolio
 
-For ongoing updates, projects, and hands-on practice work, please visit my dedicated **[Cybersecurity Portfolio Repository](#)**.
+For ongoing updates, projects, and hands-on practice work, please visit my dedicated <a href="https://github.com/mystiebluz/cybersecurity-portfolio" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Cybersecurity-blue?style=for-the-badge&logo=github" alt="Portfolio Badge"/> </a>
 
 ---
 
 ### 🌍 Connect With Me
 
-* LinkedIn: [linkedin.com/in/mystiebluz](https://www.linkedin.com/in/mystiebluz)
-* GitHub: [github.com/mystiebluz](https://github.com/mystiebluz)
-* Personal Website/Blog: [https://mystiebluz.tech/](#)
-* 📧 Email: [yourname@email.com](mystiebluz@gmail.com)
+<a href="https://www.linkedin.com/in/mystiebluz" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+</a>  
+
+<a href="https://mystiebluz.tech/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge&logo=google-chrome" alt="Website Badge"/>
+</a>  
+
+<a href="mailto:mystiebluz@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+</a>  
 
 🤝 I welcome connections with recruiters, professionals, and mentors who are passionate about cybersecurity.
-
 
