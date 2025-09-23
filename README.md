@@ -12,7 +12,7 @@ This repository serves as a collection of my projects, study progress, and pract
 
 ### 📂 Cybersecurity Portfolio
 
-For ongoing updates, projects, and hands-on practice work, please visit my dedicated <a href="https://github.com/mystiebluz/cybersecurity-portfolio" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Cybersecurity-blue?style=for-the-badge&logo=github" alt="Portfolio Badge"/> </a>
+For ongoing updates, projects, and hands-on practice work, please visit my dedicated <a href="https://github.com/MystieBluz/mystiebluz-cybersecurity.git" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Cybersecurity-blue?style=for-the-badge&logo=github" alt="Portfolio Badge"/> </a>
 
 ---
 
