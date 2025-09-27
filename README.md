@@ -4,7 +4,7 @@
 
 I am currently pursuing a new and exciting journey into **Cybersecurity**, with a strong focus on building the skills necessary to protect organizations and mitigate evolving digital threats.
 
-I’m enrolled in the **Google Cybersecurity Professional Certificate Program**, where I am gaining hands-on experience with security tools, incident response, and threat analysis. In addition, I am actively preparing for the **CompTIA Security+ certification**, which will further strengthen my foundational knowledge in security concepts, risk management, and network defense.
+I’m enrolled in the **Google Cybersecurity Professional Certificate** program, where I am gaining hands-on experience with security tools, incident response, and threat analysis. In addition, I am actively preparing for the **CompTIA Security+ certification**, which will further strengthen my foundational knowledge in security concepts, risk management, and network defense.
 
 This repository serves as a collection of my projects, study progress, and practical exercises as I continue developing my expertise. My goal is to grow into a role where I can apply both technical skills and analytical thinking to help safeguard information systems.
 
